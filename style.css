@@ -1,0 +1,58 @@
+header{
+    padding: 10px;
+    background-image: url(images/download\ \(1\).jfif);
+    color: wheat;
+    
+}
+header h1{
+    text-align: center;
+    font-size: 50px;
+
+}
+
+nav a{ 
+    padding: 50px;
+    text-align: end;
+    float: left;
+    font-size: 20px;   
+}
+
+div {
+    padding: 20px;
+    background-color: burlywood;
+
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    color: wheat;
+}
+img{
+    padding: 20px;
+    height: 25%;
+    width: 25%;
+   
+}
+h2{
+    padding: 10px;
+    font-size: 30px;
+    color: yellowgreen;
+    text-align: center;
+    background-color: black;
+    
+}
+footer{
+    padding: 30px;
+    text-align: end;
+    float: left;
+    font-size: 50px;   
+    background-color: yellowgreen;
+}
+button{
+ padding-left : 30px;
+ 
+    text-align: end;
+    background-color: aqua;
+}
+
